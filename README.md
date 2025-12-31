@@ -52,4 +52,4 @@ Every project in this repository follows a rigorous engineering mindset:
 
 ## 📫 Contact
 **Mohamed Najeeb P.A** <br>
-[LinkedIn Profile] | najeebpa81@gmail.com
+| najeebpa81@gmail.com
