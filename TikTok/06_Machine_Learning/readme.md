@@ -47,4 +47,4 @@ To find the best possible solution, two powerful architectures were compared usi
 
 ## 💼 Availability for Hire (UAE / Singapore / GCC)
 **Najeeb P.A** | Lead Scoring & Predictive Classification Specialist
-[LinkedIn Profile] | najeebpa81@gmail.com | +65 91817634
+| najeebpa81@gmail.com | +65 91817634
