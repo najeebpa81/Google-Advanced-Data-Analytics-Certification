@@ -23,8 +23,7 @@ Through this certification, I have mastered and applied:
 * **Business Problem:** Developing a machine learning model to classify whether a video contains a "claim" or an "opinion" to prioritize human moderation.
 * **Methodology:** Utilized Random Forest and XGBoost classifiers to achieve high recall, ensuring high-risk content is flagged accurately.
 * **Key Results:** Achieved an **XGBoost model with near-perfect evaluation metrics**, providing a scalable solution for content moderation.
-* **[View Full Project Folder](./TikTok_Project)** *(Update this link to your actual folder path)*
-
+* **[View Full Project Folder](https://github.com/najeebpa81/Google-Advanced-Data-Analytics-Certification/tree/ad98bd9bab9dc7f4fde3373cdd194ddcd6373675/TikTok)**
 
 ## 📐 The PACE Framework
 Every project in this repository follows a rigorous engineering mindset:
