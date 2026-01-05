@@ -25,21 +25,6 @@ Through this certification, I have mastered and applied:
 * **Key Results:** Achieved an **XGBoost model with near-perfect evaluation metrics**, providing a scalable solution for content moderation.
 * **[View Full Project Folder](./TikTok_Project)** *(Update this link to your actual folder path)*
 
----
-
-### 2. 🚗 Waze: User Churn Prediction
-**Status:** ⏳ *Planned / In-Progress*
-* **Focus:** Binomial Logistic Regression and survival analysis logic to predict user retention.
-
-### 3. 🚕 Automatidata: NYC Taxi Fare Prediction
-**Status:** ⏳ *Planned / In-Progress*
-* **Focus:** Multiple Linear Regression and A/B testing to optimize revenue for taxi drivers.
-
-### 4. 🏢 Salifort Motors: Employee Retention
-**Status:** ⏳ *Planned / In-Progress*
-* **Focus:** Ethical AI and tree-based models to identify factors driving employee turnover.
-
----
 
 ## 📐 The PACE Framework
 Every project in this repository follows a rigorous engineering mindset:
